@@ -1,0 +1,39 @@
+.jumbotron{
+    height: 100vh;
+}
+
+#titlePage{
+    height: 100vh;
+    text-align: center;
+    padding: 20vh;
+    background-image: url(https://unsplash.it/1000);
+    background-size:cover;
+    color: red;
+}
+
+#secondPage{
+    height: 100vh;
+    text-align: center;
+    padding: 35vh;
+    background-image: url(https://unsplash.it/1100);
+    background-size:cover;
+}
+
+.questions{
+    height: 100vh;
+    text-align: center;
+}
+
+#question1{
+    background-image: url(https://unsplash.it/900);
+    background-size:cover;
+}
+
+#question2{
+    background-image: url(https://unsplash.it/950);
+    background-size:cover;
+}
+
+.navbar{
+    background-color: rgba(255,255,255,.5)
+}
